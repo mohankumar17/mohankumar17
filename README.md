@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohan Kumar
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in DevOps and Data Science
 - 🌱 I’m currently learning Linux, Jenkins and Docker
 - 📫 You can reach me on Linkedin : https://www.linkedin.com/in/mohan-kumar-48b6ba165/
 
