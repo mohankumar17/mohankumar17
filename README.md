@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohan Kumar
-- 👀 I’m interested to be part of DevOps and Data Science
-- 🌱 I’m currently learning Jenkins and Docker
+- 👀 I’m interested to be part of SDLC
+- 🌱 I’m currently learning DevOps Tools
 - 📫 You can reach me on Linkedin : https://www.linkedin.com/in/mohankumar17/
 
 <!---
