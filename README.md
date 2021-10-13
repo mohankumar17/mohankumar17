@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohan Kumar
-- 👀 I’m interested to be part of SDLC
-- 🌱 I’m currently learning DevOps Tools
+- 👀 I’m interested in Software Application Development.
+- 🌱 I’m currently learning Web Technologies.
 - 📫 You can reach me on Linkedin : https://www.linkedin.com/in/mohankumarkothala/
 
 <!---
