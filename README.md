@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Mohan Kumar
-- 👀 I’m working as a Software Application Developer.
-- 🌱 I’m currently learning Web Technologies.
-
-<!---
-mohankumar17/mohankumar17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Mohan Kumar.
+- 👀 I’m a Full Stack Software Developer with expertise on:
+     1. HTML.
+     2. CSS with Bootstrap.
+     3. JavaScript.
+     4. ReactJS.
+     5. Java with Spring, Spring MVC, Spring Boot, REST and Hibernate.
+     6. DBMS with SQL.
+     7. Linux.
+     8. Git Version Control.
