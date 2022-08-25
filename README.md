@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mohan Kumar.
-- 👀 I’m a Full Stack Software Developer with expertise on:
+- 👀 I’m a Software Developer with expertise on:
      1. HTML.
      2. CSS with Bootstrap.
      3. JavaScript.
