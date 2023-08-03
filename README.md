@@ -1,6 +1,6 @@
 Hi, I’m Mohan Kumar.
 
-As a **Java** and **MuleSoft** developer with 2+ years of experience, I have developed a strong understanding of enterprise integration using **MuleSoft's Anypoint Platform**. My expertise includes designing and implementing MuleSoft APIs and integrations, as well as developing Java applications that integrate with various systems.
+As a software developer with 2+ years of experience, I have developed a strong understanding of enterprise software applications. My expertise includes designing and implementing integration applications and ETL pipelines.
 
 In my previous role, I worked on multiple MuleSoft projects that involved integrating various systems such as **SQL Databases, Salesforce, NetSuite, JMS, FTP, IBM MQ** etc. I also developed custom connectors, **data transformations**, and error handling processes to ensure reliable and efficient data exchange. Additionally, I have experience working with **GoAnywhere MFT** tool for secure transmission of files between systems. 
 
